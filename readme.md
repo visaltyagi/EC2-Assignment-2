@@ -4,7 +4,7 @@
 
 You work for XYZ Corporation. Your corporation wants to launch a new web-based application using AWS Virtual Machines, configure the resources accordingly with appropriate storage for the tasks.
 
-You are asked to perform the following tasks:
+**You are asked to perform the following tasks:**
 
 1. Launch a Linux EC2 instance.
 2. Create an EBS volume with 20 GB of storage and attach it to the created EC2 instance.
