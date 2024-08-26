@@ -1,4 +1,4 @@
-**How to Create and Attach the EBS Volume to the EC2 Instance - EC2 Assignment 2 **
+**How to Create and Attach the EBS Volume to the EC2 Instance - EC2 Assignment 2**
 
 **Problem Statement:**
 
