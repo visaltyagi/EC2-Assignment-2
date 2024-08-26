@@ -1,6 +1,7 @@
 **How to Create and Attach the EBS Volume to the EC2 Instance - EC2 Assignment 2 **
 
 **Problem Statement:**
+
 You work for XYZ Corporation. Your corporation wants to launch a new web-based application using AWS Virtual Machines, configure the resources accordingly with appropriate storage for the tasks.
 
 You are asked to perform the following tasks:
