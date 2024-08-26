@@ -12,7 +12,7 @@ You work for XYZ Corporation. Your corporation wants to launch a new web-based a
 
 **Assignment Solution:** 
 
-**Step 1:** Create an EC2 Instance
+**Step 1:** Create an EC2 Instance.
 
 **Step 2:** Go to the "Elastic Block Store" & click on the "Volumes".
 
